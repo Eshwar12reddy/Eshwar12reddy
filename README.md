@@ -80,8 +80,8 @@
 - **Impact:** Improved HR decision-making through data-driven workforce insights and interactive KPI visualization for employee attrition analysis.
 - **Features:** Multi-dimensional employee analysis with drill-down capabilities, interactive dashboards monitoring key HR KPIs, DAX calculations for trend analysis, SQL-based data transformation, and EDA-driven insights.
 - **Skills:** Business Intelligence, Data Visualization, SQL Analytics, Exploratory Data Analysis, ELT, Power BI Dashboard Development, HR Analytics, Stakeholder Reporting
-- [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshwar12reddy/employee-attrition-analytics)
-
+- [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)]
+(https://github.com/Eshwar12reddy/Employee-Attrition-data-analysis)
 
 
 ---
