@@ -68,12 +68,11 @@
 - [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohith008-cloud/Insurance-Fraud-Detection-ML)
 **
 ### 🎓 ***Student Registration System**
-- **Technologies**: FastAPI, Streamlit, Supabase PostgreSQL, Python, REST API
+**Technologies**: FastAPI, Streamlit, Supabase PostgreSQL, Python, REST API
 - **Description**: Developed a full-stack web application that allows users to register student details through an interactive interface. Built a FastAPI backend to process requests and integrated Supabase for secure cloud database storage.
 - **Features**: Student registration, REST API integration, Pydantic data validation, real-time database operations, responsive Streamlit interface, cloud deployment using Render and Streamlit Cloud.
 - **Skills**: Python, FastAPI, Streamlit, REST API Development, Supabase, PostgreSQL, API Integration, Full-Stack Development
-- [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohith008-cloud/Dairy-Farm-Management-System)
-
+- [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshwar12reddy/Student-Registration-System-using-FastAPI-Streamlit-Supabase)
 ### 📊 Employee Attrition Analytics Dashboard
 **Technologies:** Power BI, SQL, Python, EDA, ELT
 - **Impact:** Improved HR decision-making through data-driven workforce insights and interactive KPI visualization for employee attrition analysis.
