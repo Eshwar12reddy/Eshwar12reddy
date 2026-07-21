@@ -60,12 +60,12 @@
 
 ## 📈 Featured Projects
 
-### 🌍 Landslide Susceptibility Prediction Using Machine Learning
+### 🌍 **Landslide Susceptibility Prediction Using Machine Learning**
 **Technologies:** Python, Streamlit, Scikit-Learn, Pandas, NumPy, Matplotlib
-- **Impact:** Developed a Machine Learning system to classify landslide susceptibility using environmental and terrain-related features, enabling faster and more reliable risk assessment.
-- **Features:** Interactive Streamlit web application, data preprocessing & feature engineering, ML-based prediction, risk classification, and real-time prediction results.
-- **Skills:** Machine Learning, Data Analysis, Data Preprocessing, Model Development, Streamlit, Python
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshwar12reddy/Landslide-Susceptibility-Prediction-Using-Machine-Learning)
+- **Description:** Developed a Machine Learning-based web application that predicts landslide susceptibility by analyzing environmental and terrain-related features. The system provides risk classification through an interactive Streamlit interface, supporting disaster preparedness and environmental risk assessment.
+- **Features:** Machine Learning-based prediction, data preprocessing & feature engineering, interactive Streamlit dashboard, real-time risk classification, data visualization, and user-friendly interface.
+- **Skills:** Python, Machine Learning, Scikit-Learn, Streamlit, Pandas, NumPy, Data Analysis, Data Preprocessing, Model Development
+- [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshwar12reddy/Landslide-Susceptibility-Prediction-Using-Machine-Learning)
 **
 ### 🎓 ***Student Registration System**
 **Technologies**: FastAPI, Streamlit, Supabase PostgreSQL, Python, REST API
