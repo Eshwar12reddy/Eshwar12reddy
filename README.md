@@ -81,6 +81,16 @@
 - **Skills:** Business Intelligence, Data Visualization, SQL Analytics, Stakeholder Reporting
 - [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohith008-cloud/Superbike-Business-Intelligence-KPI-Dashboard)
 
+- ### 📊 Employee Attrition Analytics Dashboard
+
+**Technologies:** Power BI, SQL, Python, EDA, ELT
+
+* **Impact:** Delivered actionable HR insights by identifying key factors influencing employee attrition through interactive dashboards and data-driven analysis.
+* **Features:** End-to-end analytics pipeline including SQL data cleaning, ELT workflow, exploratory data analysis, KPI reporting, DAX-powered Power BI dashboard, and interactive visualizations with filtering and drill-down capabilities.
+* **Skills:** Power BI, SQL Analytics, Data Visualization, Exploratory Data Analysis (EDA), ELT, Business Intelligence, Dashboard Development, HR Analytics.
+* **Repository:**- [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)] https://github.com/Eshwar12reddy/employee-attrition-analytics
+
+
 ---
 
 ## 🎯 Core Competencies
