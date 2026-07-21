@@ -60,12 +60,12 @@
 
 ## 📈 Featured Projects
 
-### 🔐 Insurance Fraud Detection ML System
-**Technologies:** Python, Scikit-Learn, Pandas, NumPy, Flask, MySQL
-- **Impact:** Achieved 94.2% accuracy in fraud detection using ensemble ML models
-- **Features:** Predictive modeling with Random Forest & XGBoost, data preprocessing & feature engineering, REST API backend
-- **Skills:** Machine Learning, Data Analysis, Backend Development, Model Deployment
-- [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohith008-cloud/Insurance-Fraud-Detection-ML)
+### 🌍 Landslide Susceptibility Prediction Using Machine Learning
+**Technologies:** Python, Streamlit, Scikit-Learn, Pandas, NumPy, Matplotlib
+- **Impact:** Developed a Machine Learning system to classify landslide susceptibility using environmental and terrain-related features, enabling faster and more reliable risk assessment.
+- **Features:** Interactive Streamlit web application, data preprocessing & feature engineering, ML-based prediction, risk classification, and real-time prediction results.
+- **Skills:** Machine Learning, Data Analysis, Data Preprocessing, Model Development, Streamlit, Python
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshwar12reddy/Landslide-Susceptibility-Prediction-Using-Machine-Learning)
 **
 ### 🎓 ***Student Registration System**
 **Technologies**: FastAPI, Streamlit, Supabase PostgreSQL, Python, REST API
