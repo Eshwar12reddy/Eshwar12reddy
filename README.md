@@ -66,17 +66,16 @@
 - **Features:** Predictive modeling with Random Forest & XGBoost, data preprocessing & feature engineering, REST API backend
 - **Skills:** Machine Learning, Data Analysis, Backend Development, Model Deployment
 - [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohith008-cloud/Insurance-Fraud-Detection-ML)
-
-### 🐄 Dairy Farm Management System
-**Technologies:** FastAPI, React, MySQL, Docker, AWS EC2
-- **Impact:** Reduced manual data entry by 85% through automation; real-time inventory tracking for 200+ dairy products
-- **Features:** Full-stack web application with secure session-based authentication, role-based access control, production dashboard
-- **Skills:** Full-Stack Development, Database Design, Cloud Deployment, API Development
+**
+### 🎓 ***Student Registration System**
+- **Technologies**: FastAPI, Streamlit, Supabase PostgreSQL, Python, REST API
+- **Description**: Developed a full-stack web application that allows users to register student details through an interactive interface. Built a FastAPI backend to process requests and integrated Supabase for secure cloud database storage.
+- **Features**: Student registration, REST API integration, Pydantic data validation, real-time database operations, responsive Streamlit interface, cloud deployment using Render and Streamlit Cloud.
+- **Skills**: Python, FastAPI, Streamlit, REST API Development, Supabase, PostgreSQL, API Integration, Full-Stack Development
 - [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohith008-cloud/Dairy-Farm-Management-System)
 
 ### 📊 Employee Attrition Analytics Dashboard
 **Technologies:** Power BI, SQL, Python, EDA, ELT
-
 - **Impact:** Improved HR decision-making through data-driven workforce insights and interactive KPI visualization for employee attrition analysis.
 - **Features:** Multi-dimensional employee analysis with drill-down capabilities, interactive dashboards monitoring key HR KPIs, DAX calculations for trend analysis, SQL-based data transformation, and EDA-driven insights.
 - **Skills:** Business Intelligence, Data Visualization, SQL Analytics, Exploratory Data Analysis, ELT, Power BI Dashboard Development, HR Analytics, Stakeholder Reporting
