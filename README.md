@@ -65,7 +65,7 @@
 - **Description:** Developed an AI-powered multi-user knowledge assistant that allows users to upload and store documents, retrieve relevant information using RAG, and perform web searches for additional research. The system provides context-aware responses by combining document knowledge with real-time web information.
 - **Features:** Multi-user document management, document upload and storage, PDF/TXT/DOCX support, RAG-based question answering, semantic vector search, Cross-Encoder reranking, web search integration, source citations, and interactive Streamlit interface.
 - **Skills:** Python, LangChain, RAG, LLMs, FAISS, Hugging Face, Groq, NLP, Vector Databases, Embeddings, Reranking, Streamlit, Tavily, Document Processing, Web Search
--[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshwar12reddy/Trinetra-AI-Intelligent-Document-Web-Assistant)
+- [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshwar12reddy/Trinetra-AI-Intelligent-Document-Web-Assistant)
 
 ### 🌍 **Landslide Susceptibility Prediction Using Machine Learning**
 **Technologies:** Python, Streamlit, Scikit-Learn, Pandas, NumPy, Matplotlib
