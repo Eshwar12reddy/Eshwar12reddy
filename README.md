@@ -58,7 +58,14 @@
 
 ---
 
-## 📈 Featured Projects
+## 📈 Featured Project
+
+### 🧠 **Trinetra AI – Multi-User Knowledge & Web Research Assistant**
+**Technologies:** Python, LangChain, RAG, FAISS, Hugging Face, Groq, Streamlit, Tavily
+- **Description:** Developed an AI-powered multi-user knowledge assistant that allows users to upload and store documents, retrieve relevant information using RAG, and perform web searches for additional research. The system provides context-aware responses by combining document knowledge with real-time web information.
+- **Features:** Multi-user document management, document upload and storage, PDF/TXT/DOCX support, RAG-based question answering, semantic vector search, Cross-Encoder reranking, web search integration, source citations, and interactive Streamlit interface.
+- **Skills:** Python, LangChain, RAG, LLMs, FAISS, Hugging Face, Groq, NLP, Vector Databases, Embeddings, Reranking, Streamlit, Tavily, Document Processing, Web Search
+-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshwar12reddy/Trinetra-AI-Intelligent-Document-Web-Assistant)
 
 ### 🌍 **Landslide Susceptibility Prediction Using Machine Learning**
 **Technologies:** Python, Streamlit, Scikit-Learn, Pandas, NumPy, Matplotlib
@@ -66,6 +73,7 @@
 - **Features:** Machine Learning-based prediction, data preprocessing & feature engineering, interactive Streamlit dashboard, real-time risk classification, data visualization, and user-friendly interface.
 - **Skills:** Python, Machine Learning, Scikit-Learn, Streamlit, Pandas, NumPy, Data Analysis, Data Preprocessing, Model Development
 - [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshwar12reddy/Landslide-Susceptibility-Prediction-Using-Machine-Learning)
+
 **
 ### 🎓 ***Student Registration System**
 **Technologies**: FastAPI, Streamlit, Supabase PostgreSQL, Python, REST API
@@ -73,6 +81,8 @@
 - **Features**: Student registration, REST API integration, Pydantic data validation, real-time database operations, responsive Streamlit interface, cloud deployment using Render and Streamlit Cloud.
 - **Skills**: Python, FastAPI, Streamlit, REST API Development, Supabase, PostgreSQL, API Integration, Full-Stack Development
 - [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshwar12reddy/Student-Registration-System-using-FastAPI-Streamlit-Supabase)
+- 
+- 
 ### 📊 Employee Attrition Analytics Dashboard
 **Technologies:** Power BI, SQL, Python, EDA, ELT
 - **Impact:** Improved HR decision-making through data-driven workforce insights and interactive KPI visualization for employee attrition analysis.
@@ -89,10 +99,11 @@
 |----------|--------|
 | **ML & AI** | Predictive Modeling, Feature Engineering, Neural Networks, Ensemble Methods, Classification & Regression |
 | **Data Skills** | Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, Data Visualization |
-| **Programming** | Python, JavaScript, SQL, Object-Oriented Programming |
+| **Programming** | Python, SQL, Object-Oriented Programming |
 | **Backend Dev** | REST APIs, FastAPI, Flask, Database Design, Authentication Systems |
-| **Frontend Dev** | React, HTML5, CSS3, JavaScript ES6+, Responsive Design |
-| **Cloud & DevOps** | AWS (EC2, S3, Lambda), Docker, Git, CI/CD Pipelines |
+| **Generative AI** | Generative AI, LLMs, Prompt Engineering, AI Agents, Agentic AI, LangChain |
+| **RAG & NLP** | Retrieval-Augmented Generation (RAG), Vector Search, Embeddings, FAISS, Cross-Encoder Reranking, NLP |
+| **AI Tools & Platforms** |Groq, Hugging Face, Tavily, Google Gemini, OpenAI APIs |
 | **Tools & Platforms** | Jupyter Notebook, VS Code, GitHub, Power BI, Tableau, MySQL Workbench |
 
 ---
